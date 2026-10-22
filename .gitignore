@@ -1,0 +1,7 @@
+music_recommender.pkl
+
+.idea/
+.cache/
+__pycache__/
+*.pyc
+.env
