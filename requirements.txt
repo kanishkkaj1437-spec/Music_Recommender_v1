@@ -3,5 +3,6 @@ numpy
 pandas
 scipy
 scikit-learn
+pyarrow
 requests
 spotipy
