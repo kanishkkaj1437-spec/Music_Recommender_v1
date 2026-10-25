@@ -47,7 +47,7 @@ except ImportError:
 # --------------------------------------------------------------------------- #
 MODEL_FILES = {
     "global": "music_recommender.pkl",
-    "bollywood": "bollywood_recommender.pkl",
+    "bollywood": "bollywood_merged_recommender.pkl",
 }
 DEFAULT_RECOMMENDATIONS = 5
 ARTWORK_CACHE_SECONDS = 60 * 60 * 12
